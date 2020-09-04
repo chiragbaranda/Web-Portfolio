@@ -6989,6 +6989,14 @@ button.bg-dark:focus {
   background-color: transparent !important;
 }
 
+.bg-lightgray {
+  background-color: lightgray !important;
+}
+
+.bg-light1 {
+  background-color: powderblue !important;
+}
+
 .border {
   border: 0.125rem solid #dee2e6 !important;
 }
@@ -10706,6 +10714,10 @@ a.text-dark:focus {
 
 .text-muted-or{
   color: orangered !important;
+}
+
+.text-muted-gy{
+  color: greenyellow !important;
 }
 
 .text-hide {

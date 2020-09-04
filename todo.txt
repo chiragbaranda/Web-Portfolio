@@ -1,0 +1,41 @@
+<h4> <p style="font-size: 0.7em;" class="blink"> Coming Soon! <hr>  WWW.CHIRAGBARANDA.COM </p></h4>
+
+    <section class="page-section bg-info text-white mb-0" id="about">
+        <div class="container">
+            <!-- About Section Heading-->
+            <div class="text-center">
+                <h2 class="page-section-heading d-inline-block text-white">SKILLS</h2>
+            </div>
+            <!-- Icon Divider-->
+            <div class="divider-custom divider-light">
+                <div class="divider-custom-line"></div>
+                <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                <div class="divider-custom-line"></div>
+            </div>
+            <!-- About Section Content-->
+            <div class="row">
+                <div class="col-lg-12 ml-auto">
+                    <p class="pre-wrap lead text-muted-black">Ticketing system     :  Service Now, Basic knowledge of JIRA</p>
+                    <p class="pre-wrap lead text-muted-black">Administrator Tools  :  Microsoft Active Directory, Microsoft Azure, Microsoft System Center Configuration Manager (SCCM),
+                             Mobile Device Management (MDM)</p>
+                    <p class="pre-wrap lead text-muted-black">Virtual machine support : VMWare, Citrix, vSphere</p>
+                    <p class="pre-wrap lead text-muted-black">Operating system : Windows XP/Vista/7/8/8.1/10 and Server , Linux Cent OS/Ubuntu</p>
+                    <p class="pre-wrap lead text-muted-black">Scripting : Basic Bash Scripting, Basic Power shell</p>
+                    <p class="pre-wrap lead text-muted-black">Programming Language :  Java, HTML, CSS, PHP, JavaScript, Python, C/C++, C# .Net</p>
+                    <p class="pre-wrap lead text-muted-black">Hardware : Computers, Laptops, Printers, Mobile : iPhone and Android</p>
+
+                </div>
+                <!-- <div class="col-lg-4 mr-auto">
+                    <p class="pre-wrap lead">Skills 2 </p>
+                </div> -->
+                <!-- <div class="col-lg-12 ml-auto">
+                    <p class="lead text-muted-black" style="font-family: 'Grand Hotel', cursive;"> " Resourceful entry-level technical specialist committed to
+                        performing assigned tasks while working in a fast-paced environment. A recent Graduate student
+                        from Mohawk College with 80 GPA with experience of technical support specialist - L2 at Canadian
+                        Tire Financial Services. Highly adept in systems analysis diagnostics and troubleshooting and
+                        conflict resolution. Exhibits excellent organizational and problem-solving skills. Works well in
+                        team environments and displays a strong work ethic. " </p>
+                </div> -->
+            </div>
+        </div>
+    </section>
