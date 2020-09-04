@@ -10696,6 +10696,18 @@ a.text-dark:focus {
   color: rgba(255, 255, 255, 0.5) !important;
 }
 
+.text-muted-blue{
+  color: cornflowerblue !important;
+}
+
+.text-muted-lightgray{
+  color: lightgray !important;
+}
+
+.text-muted-or{
+  color: orangered !important;
+}
+
 .text-hide {
   font: 0/0 a;
   color: transparent;
